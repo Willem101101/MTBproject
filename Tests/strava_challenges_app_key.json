@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "strava-challenges-app",
+  "private_key_id": "3c614e9bd108abc2acbf243335348645bb26f705",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDlZu4+7vjUHM9E\n/i4JisS948HBZpmgJfmc+rRhPz8O2xXdHOg2cq9fZGnpoTnayJRq+R5i6Rld0T82\nwM/PVkt8O708WvnPbdajG2+XjrBGtdqETa3fJp75DIrFyMcMqiQcuAvsRTZ2aOuD\npSvmSZTt886Vmd+X8OE7CgE+4vrT+hH2E+4kKFMqiq+b8r1EK8cl3xX6AFiSB+Re\nNx0Fgep/08RuCFKWVsWoaQbKq4RdKttmvo87agTpX1GKXXcbSX+cnTcBnZ74/UB9\nIcEKPwTSBAydfm7ImSg4OwRl5CnHXxhmTbnRnRndahR/Xo2wbJ7VSzW6sM5qta9d\n2qWzUfGFAgMBAAECggEABIl6yHYxJ/933qKeUM7/TCLPMrQvm/oUS+quGvGayCrv\nbZju7iC/ijCcuE5ZgWkP0mZ3Qjffqg+DjgwrMAEXa29tCIlja8WoMJVQKYcHbSaX\nRKBFV5FWeeYpxSFO79evm30iXeZn3i3+C8j+Vhwkx2itMHVDdahXHrP4dADI5YdW\nLxwpG9nEm+oPfGAgpB3dTgPnw1QDcVISKdJd9OiBsHaQlnzc3kw1wd3oaVEntSfT\nkTnfOusEaCvr3fpkatu35if1SrLfSjI8PsRRYOjFhLT6gduOeU8sKzKypVzYkDMW\nGRZgH/ugRYnRSWEM8YJDssJn9TTXEEUscRDMfIPJIQKBgQD+UAdPwMXliHbQk4Xb\nqm46UWok7KXGhVZgTKSAYTJywWuCEuaruuOscv+/TsD/wY3cwwHDdwgt4C/j1KC9\nH9sAWgBWTiRX91dkXeOlMad6DXX0j9bHXA+JETTCF/oAsdm7V3K8EPKXz9tZPXC8\nGkEsPRlOMtUrTl8f9Apd9P+u8QKBgQDm7JblKKakNRZC0Zhcsm1xusXD4ESYClqE\nlWbPNvcp3eRhngecB1Ax6iEJObSo9A5aCpWAQ0N1bk8e2/gY9zlqg5Zez2vZaQl6\n4hG9dZyxBbMVfDZijdI+AVw0ZrQGk9Q9uBcGG9TBv7kIPu7Gg7pNS0/RBpj917lW\nQQwMXTGT1QKBgQCsCRtJGlFFWzF1G7bbyMlUbirt26CxURYDgxVtO1NTSgEeNwcQ\neRb3W7wigHYTDa6X/ts8jVNdJWGAMCCkj94ouLmtqKLxVwMphFIxOAvhhyWaUYur\nxV1FDfywqGOZALcYAqo9CwHxLM1n6yZOOTyJXrO1sLF/4D59cStqMAifIQKBgEy1\nRqK00DY31D859IzGUIi47DzW4LJIrizgnBg1QAFOTjEHF6wC2ebayUKRQqvk9md+\noI7MyTnW/L1ZgJ56cT4qm+a+rCq6M4X4VsBCs1wycnyumDpAthgWx5Q4kZClxpkB\n79P9prz9fO96SEL1Owu1+ruKn4OjB1PZo7DvvCpJAoGAGRFYEOqf+GlbbVbEIjuj\nObEe3oBLhsPbB/4LRGCUYOEY+cXkffYV+cb6esMHlIlpBMEvadKl3RZVuDyWO1dv\nH/NhNVK+cHYjigqEfajvfklirlalxwe/GrgiAAnG1Uqe5kiYe8+HzkgY4H2xSoH1\nvEo44eeisTKvBSOqCAiSh8s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-hhnrh@strava-challenges-app.iam.gserviceaccount.com",
+  "client_id": "102600454848130238339",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-hhnrh%40strava-challenges-app.iam.gserviceaccount.com"
+}
